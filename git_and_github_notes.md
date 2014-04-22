@@ -47,7 +47,7 @@ and the changes are moved over successfully!
 ###Transferring SSH key from one machine for another to run git from another machine
     
 github has [help pages on this topic](https://help.github.com/articles/generating-ssh-keys)
-
+  
 I know I already have an id_rsa.pub file here
 
 `$ cd ~/.ssh`  

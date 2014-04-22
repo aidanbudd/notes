@@ -45,7 +45,7 @@ and the changes are moved over successfully!
 [These pages on github](https://help.github.com/articles/pushing-to-a-remote) give more info about the syntax of git push
 
 ###Transferring SSH key from one machine for another to run git from another machine
-  
+    
 github has [help pages on this topic](https://help.github.com/articles/generating-ssh-keys)
 
 I know I already have an id_rsa.pub file here

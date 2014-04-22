@@ -20,3 +20,7 @@ This comes from the github [create a repo pages](https://help.github.com/article
 `$ git remote add origin https://github.com/username/Hello-World.git`  
 `$ git push origin master`
 
+
+###Clone the repo
+
+`$ git clone https://github.com/aidanbudd/notes`

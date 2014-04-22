@@ -42,6 +42,7 @@ instead, we just do
 
 and the changes are moved over successfully!
 
+[These pages on github](https://help.github.com/articles/pushing-to-a-remote) give more info about the syntax of git push
 
 ###Transferring SSH key from one machine for another to run git from another machine
 
